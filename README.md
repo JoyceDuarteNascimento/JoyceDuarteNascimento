@@ -10,8 +10,10 @@
 <div align="center">
   <a href="https://github.com/JoyceDuarteNascimento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyceduartenascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=joyceduartenascimento" height="130" alt="languages graph"/>
-</div>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyceduartenascimento&layout=compact&theme=dracula&&hide_border=false"/>
+</div><br>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=JoyceDuarteNascimento&theme=dracula&hide_border=true&area=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joyce-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,5 +28,4 @@
   <a href = "mailto:joyceduartenascimento@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joyceduartenascimento/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.codewars.com/users/JoyceDuarteNascimento" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
- 
 </div>
