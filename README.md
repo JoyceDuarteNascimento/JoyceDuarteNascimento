@@ -1,7 +1,3 @@
-### Oiii! Eu sou a Joyce Duarte!
-
-https://www.codewars.com/users/JoyceDuarteNascimento/badges/small
-
 ## Olá! Eu sou a Joyce Duarte
 
 - 📚 Atualmente: Desenvolvedora Full Stack em formação na Kenzie Academy Brasil
