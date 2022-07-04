@@ -27,6 +27,4 @@
   <a href="https://www.linkedin.com/in/joyceduartenascimento/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.codewars.com/users/JoyceDuarteNascimento" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/JoyceDuarteNascimento/JoyceDuarteNascimento/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
