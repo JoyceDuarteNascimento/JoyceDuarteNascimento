@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/JoyceDuarteNascimento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyceduartenascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyceduartenascimento&layout=compact&theme=dracula&&hide_border=false"/>
+  <img width="41%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyceduartenascimento&layout=compact&theme=dracula&&hide_border=false"/>
 </div><br>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=JoyceDuarteNascimento&theme=dracula&hide_border=true&area=true)
