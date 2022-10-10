@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Joyce Duarte
 
 - 📚 Atualmente: Desenvolvedora Full Stack em formação na Kenzie Academy Brasil
-- 👨‍💻 Módulo: Front-End | 🚀 Foco atual: Api's | ⚡ Formação Full Stack: Maio / 2023
+- 👨‍💻 Módulo: Front-End | 🚀 Foco atual: Interação com Api's | ⚡ Formação Full Stack: Julho / 2023
 - 🔔 Contate-me no email: joyceduartenascimento@gmail.com
 - <img align="center" alt="Joyce-CodeWars" src="https://www.codewars.com/users/JoyceDuarteNascimento/badges/small">
 
